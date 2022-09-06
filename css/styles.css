@@ -1,0 +1,42 @@
+
+.boy {
+  background-image:url(../img/imagencarros.png);
+}
+h1{
+  background-color: rgba(43, 205, 226, 0.966);
+
+}
+
+
+
+
+
+
+.flex-container {
+    height: 10%;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    width: 90;
+    height: 70;
+    font-family:cursive;
+  }              
+th{
+      font-family:cursive;
+      color:yellow;
+  }
+td{
+    font-family:cursive;
+    color: black;
+    
+}
+body{
+    background-color:red;
+    background-repeat: no-repeat;
+    background-image: url(../img/imagencarros.png);
+    
+    
+}
